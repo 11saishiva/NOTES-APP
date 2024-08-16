@@ -9,7 +9,7 @@ This is a simple Note Making App built using Python's Tkinter library. The appli
 - **Edit Notes**: Modify existing notes.
 - **Delete Notes**: Remove notes that are no longer needed.
   
-  ### Prerequisites
+## Prerequisites
   
 - Python and Tkinter.
 - Json
